@@ -44,6 +44,7 @@ My ambition is to contribute to a culture of cybersecurity resilience and innova
 <div>
     <img src="https://img.shields.io/badge/-Exabeam-006400?&style=for-the-badge&logo=Exabeam&logoColor=white" />
     <img src="https://img.shields.io/badge/-DefenseStorm-004876?&style=for-the-badge&logo=DefenseStorm&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ## Certifications
