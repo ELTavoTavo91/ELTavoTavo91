@@ -29,10 +29,12 @@ My ambition is to contribute to a culture of cybersecurity resilience and innova
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Fortinet-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Lansweeper-004b91?&style=for-the-badge&logo=Lansweeper&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
+    <img src="https://img.shields.io/badge/-ManageEngine_EndPoint_Central_MSP-00c0ef?&style=for-the-badge&logo=ManageEngine&logoColor=white" />
     <img src="https://img.shields.io/badge/-SentinelOne-ff6600?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cylance-0c164f?&style=for-the-badge&logo=Cylance&logoColor=white" />
 </div>
