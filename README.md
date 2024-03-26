@@ -1,5 +1,6 @@
 # Hello, I'm Gustavo
 <a href="https://linkedin.com/in/gustavo-melendez-025bb6249"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://eltavotavo91.org/"><img src="https://img.shields.io/badge/-My%20Portfolio-21759b?&style=for-the-badge&logo=wordpress&logoColor=white" /></a>
 
 <!--Brief Introduction-->
 
@@ -15,7 +16,7 @@ My ambition is to contribute to a culture of cybersecurity resilience and innova
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Patch Management                              | <a href="https://github.com/ELTavoTavo91/PatchManagement">Secure Patch Management</a>|
+| Patch Management                              | <a href="https://eltavotavo91.org/?p=28">Secure Patch Management</a>|
 <!--| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -61,4 +62,4 @@ My ambition is to contribute to a culture of cybersecurity resilience and innova
 <!--
 - Detection Lab < this shoud be replaced with the "associated Project Link from above once you have it updated.>
 - SOC Automation Project -->
-- <a href="https://github.com/ELTavoTavo91/PatchManagement">Secure Patch Management</a>
+- <a href="https://eltavotavo91.org/?p=28">Secure Patch Management</a>
