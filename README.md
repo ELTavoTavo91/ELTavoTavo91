@@ -39,13 +39,22 @@ My ambition is to contribute to a culture of cybersecurity resilience and innova
     <img src="https://img.shields.io/badge/-ManageEngine_EndPoint_Central_MSP-00c0ef?&style=for-the-badge&logo=ManageEngine&logoColor=white" />
     <img src="https://img.shields.io/badge/-SentinelOne-ff6600?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cylance-0c164f?&style=for-the-badge&logo=Cylance&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DUO-EDA028?&style=for-the-badge&logo=DUO&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Delinea-009FDA?&style=for-the-badge&logo=Delinea&logoColor=white" />
 </div>
 
-### SIEM
+### Email Security
+<div>
+    <img src="https://img.shields.io/badge/-Proofpoint-F89920?&style=for-the-badge&logo=Proofpoint&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ironscales-0072B1?&style=for-the-badge&logo=Ironscales&logoColor=white" />
+</div>
+
+### SIEM & Vulnerability Management
 <div>
     <img src="https://img.shields.io/badge/-Exabeam-006400?&style=for-the-badge&logo=Exabeam&logoColor=white" />
     <img src="https://img.shields.io/badge/-DefenseStorm-004876?&style=for-the-badge&logo=DefenseStorm&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Rapid7-FECC00?&style=for-the-badge&logo=Rapid7&logoColor=black" />
 </div>
 
 ## Certifications
